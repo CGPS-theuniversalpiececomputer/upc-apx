@@ -34,11 +34,7 @@ widget:
     attachment: 
 ---
 
-## Some characteristics of the universal piece:
-
-{{< figure src="images/characterUP.png" >}}
-
-## Term Overview:
+## Concept Overview:
 
 'The universal piece' is a concept central to the time machine for peace social invention program. Imagine it as a continuous, evolving process that aims to connect and optimize the various components of our world to achieve a harmonious state, thus generating the 'peace as a product' that we usually think of. This process is not static; it is iterative, meaning it takes steps that gradually converge on an optimal solution. It is also piecewise continuous, which means it never stops but can jump to different states as needed. The process also evolves, which means that as the definition of 'optimal solution' advances, so does the universal piece improve its methods to continue converging.
 
@@ -49,3 +45,7 @@ Think of the universal piece as a game that people play with each other, where "
 The universal piece is 'run' by 'the universal piece computer', which is the network of all world piece computers taken as a unified whole. This becomes effectively, a giant supercomputer that maintains the universal piece---the global computational peace process---by optimizing the configuration of world pieces and world piece computers at both individual, local, and global scope. This supercomputer is singular by definition, and it is the product of the universal piece itself, just as the universal piece is the product of the universal piece computer. The relationship is dialectic at the global scope. The peace system generates the peace process, vice-versa, ying-yang.
 
 So, the universal piece is the peace process that unifies and optimizes the significant things in our worlds taken as a whole, making our Human universe a better place for everyone. By understanding and participating in this process, we can collectively work towards a more harmonious and interconnected world, one of continual improvement.
+
+## Some characteristics of the universal piece:
+
+{{< figure src="images/characterUP.png" >}}
